@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Java Spring**
 
-- 📝 I regularly write articles on [https://lefton.tistory.com/](https://lefton.tistory.com/)
+- 📝 I regularly write articles on [My Blog](https://lefton.tistory.com/)
 
 - 📫 How to reach me **sewd1224@gmail.com**
 
