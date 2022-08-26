@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sewd1224@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Nokyep/](https://github.com/Nokyep/)
+- 📄 Know about my experiences [Gnob's Project](http://gnob.shop)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
