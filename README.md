@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Java, Java Spring**
 
-- 📫 My Profile Page [Gnob - Backend Developer](https://montep95.github.io/MyPage/)
+- 📫 My Profile Page : [Gnob - Backend Developer](https://montep95.github.io/MyPage/)
 
-- 📝 I regularly write articles on [My Blog](https://lefton.tistory.com/)
+- 📝 I regularly write articles on : [My Blog](https://lefton.tistory.com/)
 
-- 📫 How to reach me **sewd1224@gmail.com**
+- 📫 How to reach me : **sewd1224@gmail.com**
 
-- 📄 Know about my experiences [Gnob's Project](http://gnob.shop)
+- 📄 Know about my experiences : [Gnob's Project](http://gnob.shop)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
