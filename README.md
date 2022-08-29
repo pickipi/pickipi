@@ -58,8 +58,11 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=blue"/>
+<br/>
+
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=green"/>
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=Visual Studio&logoColor=black"/>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=green"/>
 
 </p>
 <hr>
