@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm 노봉준</h1>
 <h3 align="center">A passionate backend developer from South of Korea</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=montep95&label=Profile%20views&color=0e75b6&style=flat" alt="montep95" /> </p>
+<h5 align="right"> 🖐🏻Visitors : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMontep95&count_bg=%236CE09A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false"/>🎇</a></h5>
 
 - 🌱 I’m currently learning **Java, Java Spring**
 
@@ -13,11 +13,61 @@
 
 - 📄 Know about my experiences : [Gnob's Project](http://gnob.shop)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">🔥Tech Stack🔥</h2>
+
+<h5 align="center"> 👩🏻‍💻Main Skill </h5>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=black"/>
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
+<br/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=skyblue"/>
+
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h5 align="center"> ✍Sub Skill </h5>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=montep95&show_icons=true&locale=en&layout=compact" alt="montep95" /></p>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
+<br/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=red"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<br/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white"/>
+
+</p>
+
+<h5 align="center"> 💻Tools </h5>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=blue"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=green"/>
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=Visual Studio&logoColor=black"/>
+
+</p>
+<hr>
+
+<div align=center>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Montep95&layout=compact&theme=highcontrast)
+
+![Gnob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montep95&theme=highcontrast&show_icons=true)
+
+</div>
