@@ -22,17 +22,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
 <br/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=skyblue"/>
-
 
 </p>
 
@@ -63,6 +59,10 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=green"/>
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=Visual Studio&logoColor=black"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=green"/>
+<br/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=skyblue"/>
 
 </p>
 <hr>
