@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Java, Java Spring and Unity, Lua Script!**
 
+- 🐱‍🏍 Current Project - Hackathon, Precourse
+
 - 📫 My Profile Page : [Gnob - Backend Developer](https://montep95.github.io/MyPage/)
 
 - 📝 I regularly write articles on : [My Blog](https://lefton.tistory.com/)
