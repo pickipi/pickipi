@@ -4,9 +4,9 @@
 
 <h5 align="right"> 🖐🏻Visitors : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMontep95&count_bg=%236CE09A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false"/>🎇</a></h5>
 
-- 🌱 I’m currently learning **Java, Java Spring and Unity, Lua Script!**
+- 🌱 I’m currently learning **Java, Java Spring**
 
-- 🐱‍🏍 Current Project - Hackathon, Precourse
+- 🐱‍🏍 Current Project - Studying Algorithms
 
 - 📫 My Profile Page : [Gnob - Backend Developer](https://montep95.github.io/MyPage/)
 
@@ -48,6 +48,8 @@
 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white"/>
+
 
 </p>
 
