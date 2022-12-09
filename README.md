@@ -4,9 +4,9 @@
 
 <h5 align="right"> 🖐🏻Visitors : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMontep95&count_bg=%236CE09A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false"/>🎇</a></h5>
 
-- 🌱 I’m currently learning **Java, Java Spring**
+- 🌱 I’m currently learning **Java, Java Spring, Android**
 
-- 🐱‍🏍 Current Project - Studying Algorithms
+- 🐱‍🏍 Current Project - Studying Algorithms, Android Projects
 
 - 📫 My Profile Page : [Gnob - Backend Developer](https://montep95.github.io/MyPage/)
 
@@ -75,8 +75,14 @@
 
 <div align=center>
 
+<!--
+일반 Top Langs와 Gnob's Github stats 출력
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Montep95&layout=compact&theme=highcontrast)
-
 ![Gnob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montep95&theme=highcontrast&show_icons=true)
-
+-->
+  
+<!--(개선) Top Langs와 Gnob's Github stats을 한 단락에 함께 출력-->
+<a href="https://github.com/Montep95"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montep95&layout=compact&theme=github_dark&hide_border=true" /></a> 
+<a href="https://github.com/Montep95"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Montep95&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Gnob's github stats" /></a>
+  
 </div>
