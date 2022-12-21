@@ -39,6 +39,8 @@
 
 <!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/C Sharp-F7DF1E?style=flat&logo=C Sharp&logoColor=black"/>
+<br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
 <br/>
