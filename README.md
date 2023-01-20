@@ -14,7 +14,9 @@
 
 - 📫 How to reach me : **sewd1224@gmail.com**
 
-- 📄 Know about my experiences : [Gnob's Project](http://gnob.shop)
+- 📄 Projects (1) : [Gnob's Project](http://gnob.shop) 
+
+- 📄 Projects (2) : ['Dungeon Maple' - Team Project](https://maplestoryworlds.nexon.com/play/13d018ce197645d584cc4ec57bef45ae)
 
 <h2 align="center">🔥Tech Stack🔥</h2>
 
