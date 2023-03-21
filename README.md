@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, Java Spring, Android, Python**
 
-- 🐱‍🏍 Current Project - Studying Algorithms, Android Projects
+- 🐱‍🏍 Current Project - Studying Algorithms🧑🏻‍💻
 
 - 📫 My Profile Page : [Gnob - Backend Developer](https://montep95.github.io/MyPage/)
 
