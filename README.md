@@ -17,11 +17,12 @@
 
 - ⬜️ My Studying : **https://lefton.tistory.com/**
 
+<!--
 - 📄 Projects (1) : [Gnob's Project](http://gnob.shop) 
+-->
+- 📄 Projects (1) : ['Dungeon Maple' - Team Project](https://maplestoryworlds.nexon.com/play/13d018ce197645d584cc4ec57bef45ae)
 
-- 📄 Projects (2) : ['Dungeon Maple' - Team Project](https://maplestoryworlds.nexon.com/play/13d018ce197645d584cc4ec57bef45ae)
-
-- 📄 Projects (3) : [Growing Blackhole](https://m.youtube.com/shorts/5oUQBDzKEyQ)
+- 📄 Projects (2) : [Growing Blackhole](https://m.youtube.com/shorts/5oUQBDzKEyQ)
 
 <h2 align="center">🔥Tech Stack🔥</h2>
 
