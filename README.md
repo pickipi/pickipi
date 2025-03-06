@@ -1,5 +1,5 @@
 <h1 align="center">| 노봉준 - Juunb |</h1>
-<h2 align="center">💡"Thinking positively To leap forward"🏃🏻‍♂️</h2>
+<h2 align="center">Thinking positively To leap forward</h2>
 
 <h5 align="right"> 🖐🏻Visitors : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMontep95&count_bg=%236CE09A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false"/>🎇</a></h5>
 
@@ -47,21 +47,19 @@
 <h5 align="center"> ✍Sub Skill </h5>
 <p align="center">
 
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/C Sharp-F7DF1E?style=flat&logo=C Sharp&logoColor=black"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <br/>
 
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/C Sharp-F7DF1E?style=flat&logo=C Sharp&logoColor=black"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
 <br/>
 
 <!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=red"/> -->
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white"/>
-
-
 </p>
 
 <h5 align="center"> 💻Tools </h5>
