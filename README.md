@@ -1,13 +1,13 @@
 <h1 align="center">| 노봉준 - Juunb |</h1>
 <h2 align="center">Thinking positively To leap forward</h2>
 
-<h5 align="right"> 🖐🏻Visitors : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMontep95&count_bg=%236CE09A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false"/>🎇</a></h5>
+<h5 align="right"> 🖐🏻Visitors : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpickipi&count_bg=%236CE09A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false"/>🎇</a></h5>
 
 - 🌱 I’m currently learning **Java, Spring**
 
 - 🐱‍🏍 Current Project - Studying Spring Framework🌿🧑🏻‍💻
 
-- 📫 My Profile Page : [Gnob - Backend Developer](https://montep95.github.io/MyPage/)
+- 📫 My Profile Page : [Juunb - Backend Developer](https://montep95.github.io/MyPage/)
 
 - 📝 I regularly write articles on : [My Blog](https://lefton.tistory.com/)
 
@@ -90,7 +90,7 @@
 -->
   
 <!--(개선) Top Langs와 Gnob's Github stats을 한 단락에 함께 출력-->
-<a href="https://github.com/Montep95"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montep95&layout=compact&theme=github_dark&hide_border=true" /></a> 
-<a href="https://github.com/Montep95"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Montep95&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Gnob's github stats" /></a>
+<a href="https://github.com/pickipi"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pickipi&layout=compact&theme=github_dark&hide_border=true" /></a> 
+<a href="https://github.com/pickipi"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=pickipi&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Juunb's github stats" /></a>
   
 </div>
