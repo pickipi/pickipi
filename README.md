@@ -7,7 +7,7 @@
 
 - 🐱‍🏍 Current Project - Studying Spring Framework🌿🧑🏻‍💻
 
-- 📫 My Profile Page : [Juunb - Backend Developer](https://montep95.github.io/MyPage/)
+- 📫 My Profile Page : [Juunb - Backend Developer](https://pickipi.github.io/MyPage/)
 
 - 📝 I regularly write articles on : [My Blog](https://lefton.tistory.com/)
 
