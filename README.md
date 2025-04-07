@@ -71,10 +71,12 @@
 <br/>
 
 
+<!--
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=green"/>
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=Visual Studio&logoColor=black"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=green"/>
 <br/>
+-->
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=skyblue"/>
