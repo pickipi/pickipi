@@ -7,9 +7,11 @@
 <h5 align="right"> 🖐🏻Visitors : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpickipi&count_bg=%236CE09A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false"/>🎇</a></h5>
 -->
 
+<!--
 - 🌱 I’m currently learning **Java, Spring**
 
 - 🐱‍🏍 Current Project - Studying Spring Framework🌿🧑🏻‍💻
+-->
 
 - 📫 My Profile Page : [Juunb - Backend Developer](https://pickipi.github.io/MyPage/)
 
@@ -17,9 +19,9 @@
 
 - 📫 How to reach me : **sewd1224@gmail.com**
 
-
+<!--
 - ⬜️ My Studying : **https://lefton.tistory.com/**
-
+-->
 <!--
 - 📄 Projects (1) : [Gnob's Project](http://gnob.shop) 
 -->
